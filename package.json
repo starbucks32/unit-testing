@@ -1,0 +1,22 @@
+{
+  "name": "unit-testing",
+  "version": "1.0.0",
+  "description": "A repository demonstrating the basics of unit testing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starbucks32/unit-testing.git"
+  },
+  "author": "starbucks32",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/starbucks32/unit-testing/issues"
+  },
+  "homepage": "https://github.com/starbucks32/unit-testing#readme",
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
