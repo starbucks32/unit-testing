@@ -1,4 +1,4 @@
-const sum, subtract = require('./index')
+const { sum, subtract } = require('./index')
 
 test('Does sum function exist?', function(){
   expect(sum).toBeDefined();
